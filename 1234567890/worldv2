@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>creationDate</key>
+    <date>2025-01-17T07:37:27Z</date>
+    <key>expertMode</key>
+    <false/>
+    <key>migrationComplete_1.7</key>
+    <true/>
+    <key>saveDate</key>
+    <date>2025-01-17T07:37:27Z</date>
+    <key>saveID</key>
+    <string>1234567890</string>
+    <key>saveVersion</key>
+    <integer>1100</integer>
+    <key>worldName</key>
+    <string>1234567890</string>
+    <key>worldWidthMacro</key>
+    <integer>512</integer>
+</dict>
+</plist>
